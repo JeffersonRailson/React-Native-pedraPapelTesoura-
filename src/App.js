@@ -84,6 +84,10 @@ retornoPontos(jogador){
   )
   }
 }
+
+
+teste
+
 */
   render() {
     return (
